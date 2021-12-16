@@ -2,6 +2,7 @@
 # The string that is defined for 'A' will be manually updated each time the previous string has been added to GovList
 # This means that we are incrementaly adding sentences and paragraphs to this list
 # This particular formatting is beneficial for BM25, to allow us to retieve the most relevant sentences or paragraphs related to our query
+#The pickle library also allows us to save this list to be used for later.
 
 import pickle #import pickle library
 
