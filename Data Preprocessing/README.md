@@ -29,3 +29,7 @@ Upon fist glance of the outputs files, it was noticeable that the document conve
 ## Spoiler Alert: the '/n' escape sequence got in the way
 
 (Feel free to read this section; however it is advised that you first read the other steps of the documentation where we feed the above processed data into our algorithms before we make our realisation into reprocessing the text data manually - _oops!_)
+
+If you followed the above recommendation, you would know that using an automated method of collecting our data proved challenging in trying to extract relevant and important information during NLP implementation. We realised that these libraries - although do a great job at scanning pdf documents - do retain formatting and hence impact how the sentences and paragraphs are chunked. We therefore decided to manually process our data, allowing us to appropriately chunk information based on topics and subtopics, as well as eradicate inappropriate spacing of information. 
+
+The code and steps used to manually process the data can be found [here](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/Manual%20Method.py).
