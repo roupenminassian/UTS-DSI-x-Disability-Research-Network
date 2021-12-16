@@ -15,7 +15,7 @@ A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Li
 
 1. [Data Preprocessing](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Data%20Preprocessing):
     - [PDF Plumber](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/PDF%20Plumber.py)
-    - [Manual Method](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/Manual%20Method)
+    - [Manual Method](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/Manual%20Method.py)
 
 2. [Exploratory Data Analysis (EDA)](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Exploratory%20Data%20Analysis%20(EDA))
 
