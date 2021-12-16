@@ -13,7 +13,7 @@ A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Li
 
 ## Contents
 
-1. Data Preprocessing
+1. Data Preprocessing:
     - PDF Plumber
     - Manual Method
 
@@ -21,11 +21,11 @@ A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Li
 
 3. BM25 (Retrieval Function)
 
-4. Deep Learning Implementation
+4. Deep Learning Implementation:
     - BERT
     - GPT-3
 
-5. Importance of Data Preprocessing
+5. Importance of Data Preprocessing:
     - Text Cleaning
     - Information Chunking
     - Revisiting NLP Algorithms
