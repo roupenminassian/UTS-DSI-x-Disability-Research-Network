@@ -3,7 +3,7 @@
 
 This repository contains work conducted in collaboration with the _Data Science Institute (DSI)_ and _Disability Research Network (DRN)_ at the _University of Technology, Sydney_. 
 
-The project involves preprocessing textual data from the Royal Commission into [_"Aged Care Quality and Safety"_](https://agedcare.royalcommission.gov.au/), and [_"Violence, Abuse, Neglect and Exploitation of People with Disability"_](https://disability.royalcommission.gov.au/) and utilising natural language processing (NLP) to improve document search functionality. Initial attempts were made to create a document-fetching algorithm designed to minimise the amount of time a user may spend searching relevant information.
+The project involves preprocessing textual data from the Royal Commission into [_"Aged Care Quality and Safety"_](https://agedcare.royalcommission.gov.au/), and [_"Violence, Abuse, Neglect and Exploitation of People with Disability"_](https://disability.royalcommission.gov.au/) and utilising natural language processing (NLP) techniques to improve document search functionality. Initial attempts were made to create a document-fetching algorithm designed to minimise the amount of time a user may spend searching relevant information.
 
 Our research spans various implementations of NLP techniques on this data, as well as utilising common deep-learning algorithms such as _BERT_ and [_GPT-3_](https://beta.openai.com/docs/introduction/overview). Most of our work is showcased in this repository in order for you to browse, but also understand both the advantages and drawbacks on the applications of such algorithms in this particular use case.
 
