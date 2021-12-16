@@ -7,7 +7,7 @@ The project involves preprocessing textual data from the Royal Commission into [
 
 Our research spans various implementations of NLP techniques on this data, as well as utilising common deep-learning algorithms such as _BERT_ and [_GPT-3_](https://beta.openai.com/docs/introduction/overview). Most of our work is showcased in this repository in order for you to browse, but also understand both the advantages and drawbacks on the applications of such algorithms in this particular use case.
 
-We hope that with further reserarch and development, that these automative tools will benefit both legal professionals, as well as the general public in being able to access legal information more efficiently.
+We hope that with further reserarch and development, these automative tools will benefit both legal professionals, as well as the general public in being able to access legal information more efficiently.
 
 A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Linda Steel](https://profiles.uts.edu.au/Linda.Steele) who co-supervised this topic area of research, and who have also kindly given permission to make these findings available to the public.
 
