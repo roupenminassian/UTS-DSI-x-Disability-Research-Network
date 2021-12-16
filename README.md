@@ -14,8 +14,8 @@ A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Li
 ## Contents
 
 1. Data Preprocessing:
-    - PDF Plumber
-    - Manual Method
+    - [PDF Plumber](/Data Preprocessing/PDF Plumber)
+    - [Manual Method](/Data Preprocessing/Manual Method)
 
 2. Exploratory Data Analysis (EDA)
 
