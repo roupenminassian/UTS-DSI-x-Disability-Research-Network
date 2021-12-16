@@ -28,4 +28,4 @@ Upon fist glance of the outputs files, it was noticeable that the document conve
 
 ## Spoiler Alert: the '/n' escape sequence got in the way
 
-(Feel free to read this section; however it is advised that you first read the other steps of the documentation where we feed the above processed data into our algorithms before we make our realisation into reprocessing the text data - _oops!_)
+(Feel free to read this section; however it is advised that you first read the other steps of the documentation where we feed the above processed data into our algorithms before we make our realisation into reprocessing the text data manually - _oops!_)
