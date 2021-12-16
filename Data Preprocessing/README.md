@@ -2,7 +2,7 @@
 
 ## It always ends up taking 90% of the process...
 
-The Royal Commission is an investigation that is independent of government into a matter of significant importance, in that they have broad powers to hold public hearings, call witnesses under oath and compel evidence. Ultimately, they use these findings to make recommendations to government about what should change.
+The _Royal Commission_ is an investigation that is independent of government into a matter of significant importance, in that they have broad powers to hold public hearings, call witnesses under oath and compel evidence. Ultimately, they use these findings to make recommendations to government about what should change.
 
 Recently, the independent body published their findings into [_"Aged Care Quality and Safety"_](https://agedcare.royalcommission.gov.au/), and [_"Violence, Abuse, Neglect and Exploitation of People with Disability"_](https://disability.royalcommission.gov.au/). It was liberating to see an abundance of information in these investigations that brought to the public eye the mistreatment of the elderly and disabled communities, which was especially exacerbated during the Covid-19 pandemic. Unfortunately, we also witnessed a plethora of documentation surrounding these observations that many would describe as almost impossible to sift through.
 
