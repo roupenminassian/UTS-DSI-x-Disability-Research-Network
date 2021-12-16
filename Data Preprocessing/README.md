@@ -27,3 +27,5 @@ Upon fist glance of the outputs files, it was noticeable that the document conve
 **Figure 3.** Noting the formatting of the text data in an example output .txt file for later.
 
 ## Spoiler Alert: the '/n' escape sequence got in the way
+
+(Feel free to read this section; however it is advised that you first read the other steps of the documentation where we feed the above processed data into our algorithms before we make our realisation into reprocessing the text data - oops!)
