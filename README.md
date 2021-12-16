@@ -9,7 +9,7 @@ Our research spans various implementations of NLP techniques on this data, as we
 
 We hope that with further reserarch and development, that these automative tools will benefit both legal professionals, as well as the general public in being able to access legal information more efficiently.
 
-A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Linda Steel](https://profiles.uts.edu.au/Linda.Steele) who co-supervised this topic area of research, and who have also given permission to make these findings available to the public.
+A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Linda Steel](https://profiles.uts.edu.au/Linda.Steele) who co-supervised this topic area of research, and who have also kindly given permission to make these findings available to the public.
 
 ## Contents
 
