@@ -14,7 +14,7 @@ All the documents are publicly available online in pdf format, however you will 
 
 **Figure 1.** Original PDF files downloaded from the Royal Commission website.
 
-You can access the code [here](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/PDF%20Plumber.py) I wrote to extract all the text from the pdf files, I also added some additional rules to remove any content pages so that it only picks up text (to the best of its ability). What the code then does it create a .txt file version each pdf document it scanned, and places it in the same folder (see below).
+You can access the code [here](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/PDF%20Plumber.py) I wrote to extract all the text from the pdf files, I also added some additional rules to remove any content pages so that it only picks up text (to the best of its ability). What the code then does is create a .txt file version each pdf document it has scanned, and places it in the same folder (see below).
 
 <img width="1134" alt="Screen Shot 2021-12-16 at 8 22 29 pm" src="https://user-images.githubusercontent.com/61346944/146344039-4f162e36-4970-438d-88fe-e89d966d38ee.png">
 
