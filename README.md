@@ -1,4 +1,4 @@
-# UTS-DSI-x-Disability-Research-Network
+# UTS-Data Science Institute x Disability Research Network
 This repository contains work conducted in collaboration with the _Data Science Institute (DSI)_ and _Disability Research Network (DRN)_ at the _University of Technology, Sydney_. 
 
 The project involves preprocessing textual data from the Royal Commission into _"Aged Care Quality and Safety"_, and _"Violence, Abuse, Neglect and Exploitation of People with Disability"_ and utilising natural language processing (NLP) to improve document search functionality. Initial attempts were made to create a document-fetching algorithm designed to minimise the amount of time a user may spend searching relevant information.
