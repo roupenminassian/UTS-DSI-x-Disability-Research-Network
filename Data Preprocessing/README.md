@@ -12,4 +12,17 @@ All the documents are publicly available online in pdf format, however you will 
 
 <img width="1134" alt="Screen Shot 2021-12-16 at 8 13 17 pm" src="https://user-images.githubusercontent.com/61346944/146342648-f04720d6-5611-493c-ae99-8140bad9c6fc.png">
 
-You can access the code [here](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/PDF%20Plumber.py) I wrote to extract all the text from the pdf files, I also added some additional rules to remove any content pages so that it only picks up text (to the best of its ability).
+**Figure 1.** Original PDF files downloaded from the Royal Commission website.
+
+You can access the code [here](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/PDF%20Plumber.py) I wrote to extract all the text from the pdf files, I also added some additional rules to remove any content pages so that it only picks up text (to the best of its ability). What the code then does it create a .txt file version each pdf document it scanned, and places it in the same folder (see below).
+
+<img width="1134" alt="Screen Shot 2021-12-16 at 8 22 29 pm" src="https://user-images.githubusercontent.com/61346944/146344039-4f162e36-4970-438d-88fe-e89d966d38ee.png">
+
+**Figure 2.** Output .txt files located in the same folder as directed by the code.
+
+Upon fist glance of the outputs files, it was noticeable that the document conversion also took into consideration the layout of the text on the pdf files. This may be an issue later (in the case that sentences will be inappropriately chunked due to the new line '\n' escape sequence when loading the data into a notebook), however we can ignore this for now.
+
+<img width="1134" alt="Screen Shot 2021-12-16 at 8 24 18 pm" src="https://user-images.githubusercontent.com/61346944/146344701-275dec82-6b4e-4a20-9656-11240e5ca0c9.png">
+
+**Figure 3.** Noting the formatting of the text data in an example output .txt file for later.
+
