@@ -26,3 +26,4 @@ Upon fist glance of the outputs files, it was noticeable that the document conve
 
 **Figure 3.** Noting the formatting of the text data in an example output .txt file for later.
 
+## Spoiler Alert: the '/n' escape sequence got in the way
