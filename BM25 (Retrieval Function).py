@@ -1,3 +1,7 @@
+#Using our manually generated list, we imported the documentation in our notebook for implementation in BM25 ranking systems.
+#We asked a specific query, and based on a scoring functionality, returned the most relevant item in the list.
+#You can also choose the number of most relevant documents for the function to return.
+
 import pickle
 
 from rank_bm25 import BM25Okapi
