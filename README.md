@@ -25,7 +25,7 @@ A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Li
     - [BERT](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Deep%20Learning%20Implementation/BERT)
     - [GPT-3](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Deep%20Learning%20Implementation/GPT-3)
 
-5. Importance of Data Preprocessing:
+5. [Importance of Data Preprocessing](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Importance%20of%20Data%20Preprocessing):
     - [Text Cleaning](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Text%20Cleaning)
     - [Information Chunking](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Information%20Chunking)
     - [Revisiting NLP Algorithms](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Revisiting%20NLP%20Algorithms)
