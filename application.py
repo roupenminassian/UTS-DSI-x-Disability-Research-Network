@@ -29,7 +29,7 @@ if input is None:
         pass
 
 else:
-    with open(os.path.join("tempDir",input.name),"rb") as fp:# Unpickling
+    with open(os.path.join("test.txt","rb") as fp:# Unpickling
         contents = pickle.load(fp)
   
     #Preparing model
