@@ -4,3 +4,4 @@ altair
 pandas
 pickleshare
 openai
+jsonlines
