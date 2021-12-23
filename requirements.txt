@@ -1,0 +1,5 @@
+rank-bm25 == 0.2.1
+streamlit
+altair
+pandas
+pickleshare
