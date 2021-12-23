@@ -2,9 +2,13 @@ import pandas as pd
 import streamlit as st
 import openai
 import os
+import jsonlines
 
 import pickle
 from rank_bm25 import BM25Okapi
+
+openai.organization = "org-eiJyreiRZUtpiu8pm6LIIA8B"
+openai.api_key = "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"
 
 """
 # Data Science Institute x Disability Research Network: A UTS HASS-DSI Research Project
@@ -14,7 +18,6 @@ The project involves preprocessing textual data from the Royal Commission into "
 Please upload a file in the correct data format below; otherwise you may use an existing, preprocessed file by selecting the below box.
 
 """
-
 #Load documents
 input = st.file_uploader('')
     
@@ -51,3 +54,17 @@ else:
         if st.button('Generate Text'):
             generated_text = bm25.get_top_n(tokenized_query, contents, n=1)
             st.write(generated_text)
+            
+             GPT_text = openai.Answer.create(
+  search_model="davinci",
+  model="davinci",
+  question=user_input,
+  documents=["test.jsonl"],
+  #file = "file-nYWFf5V4zKtZMv82WyakRZme",
+  examples_context="In 2017, U.S. life expectancy was 78.6 years.",
+  examples=[["What is human life expectancy in the United States?","78 years."]],
+  max_tokens=50,
+  temperature = 0.3,
+  stop=["\n", "<|endoftext|>"],
+)
+             st.write('GPT-3 Answer:' GPT_text['answers'])
