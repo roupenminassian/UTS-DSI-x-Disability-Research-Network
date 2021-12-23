@@ -28,7 +28,7 @@ if input is None:
         pass
 
 else:
-    with open(str(input.name) + '.txt',"rb") as fp:# Unpickling
+    with open(str(input.name),"rb") as fp:# Unpickling
         contents = pickle.load(fp)
   
     #Preparing model
