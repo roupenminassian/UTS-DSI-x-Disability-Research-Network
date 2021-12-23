@@ -55,7 +55,7 @@ else:
             generated_text = bm25.get_top_n(tokenized_query, contents, n=1)
             st.write(generated_text)
             
-             GPT_text = openai.Answer.create(
+            GPT_text = openai.Answer.create(
   search_model="davinci",
   model="davinci",
   question=user_input,
@@ -67,4 +67,4 @@ else:
   temperature = 0.3,
   stop=["\n", "<|endoftext|>"],
 )
-             st.write('GPT-3 Answer:' GPT_text['answers'])
+            st.write('GPT-3 Answer:' GPT_text['answers'])
