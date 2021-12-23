@@ -37,7 +37,7 @@ else:
 
     bm25 = BM25Okapi(tokenized_corpus)
     
-    user_input = st.text_input('Seed Text (can leave blank)')
+    user_input = st.text_input('')
 
     if user_input is None:
         st.write('Please enter a query above.')
