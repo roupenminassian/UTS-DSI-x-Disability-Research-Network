@@ -11,6 +11,8 @@ We hope that with further reserarch and development, these automative tools will
 
 A warm thank you to [Adam Berry](https://profiles.uts.edu.au/Adam.Berry) and [Linda Steel](https://profiles.uts.edu.au/Linda.Steele) who co-supervised this topic area of research, and who have also kindly given permission to make these findings available to the public.
 
+Feel free to also test the [current version](https://share.streamlit.io/roupenminassian/uts-dsi-x-disability-research-network/main/application.py) of our product out (created using Streamlit).
+
 ## Contents
 
 1. [Data Preprocessing](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Data%20Preprocessing):
