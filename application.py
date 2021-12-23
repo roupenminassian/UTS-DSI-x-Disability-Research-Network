@@ -8,7 +8,7 @@ import pickle
 from rank_bm25 import BM25Okapi
 
 openai.organization = "org-eiJyreiRZUtpiu8pm6LIIA8B"
-openai.api_key = "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"
+openai.api_key = "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"
 
 """
 # Data Science Institute x Disability Research Network: A UTS HASS-DSI Research Project
