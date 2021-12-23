@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import os
 
 import pickle
 from rank_bm25 import BM25Okapi
@@ -28,7 +29,7 @@ if input is None:
         pass
 
 else:
-    with open(str(input.name),"rb") as fp:# Unpickling
+    with open(os.path.join("tempDir",input.name),"rb") as fp:# Unpickling
         contents = pickle.load(fp)
   
     #Preparing model
