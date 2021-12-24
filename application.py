@@ -43,6 +43,8 @@ else:
     
     user_input = st.text_input('Please Enter a Query:')
     
+    corpus_selected = st.slider("Select the number of relevant documents to present:", min_value=0, max_value=5, step=1)
+    
     temperature_selected = st.slider("Set the temperature (controls how much randomness is in the output):", min_value=0.0, max_value=1.0, step=0.05)
 
     if user_input is None:
@@ -54,8 +56,9 @@ else:
         doc_scores = bm25.get_scores(tokenized_query)
 
         if st.button('Generate Text'):
-            generated_text = bm25.get_top_n(tokenized_query, contents, n=1)
-            st.write(generated_text[0])
+            generated_text = bm25.get_top_n(tokenized_query, contents, n=corpus_selected)
+            for i in range(corpus_selected):
+                st.write(generated_text[i])
             
             GPT_text = openai.Answer.create(
   search_model="davinci",
