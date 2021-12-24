@@ -7,8 +7,10 @@ import jsonlines
 import pickle
 from rank_bm25 import BM25Okapi
 
+from dotenv import load_dotenv
+
 openai.organization = "org-eiJyreiRZUtpiu8pm6LIIA8B"
-openai.api_key = "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"
+openai.api_key = os.getenv('API_KEY')
 
 """
 # Data Science Institute x Disability Research Network: A UTS HASS-DSI Research Project
