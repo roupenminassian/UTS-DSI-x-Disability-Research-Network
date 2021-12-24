@@ -8,7 +8,7 @@ import pickle
 from rank_bm25 import BM25Okapi
 
 openai.organization = "org-eiJyreiRZUtpiu8pm6LIIA8B"
-openai.api_key_path = "https://github.com/roupenminassian/gpt3-codenames/blob/b7e80673e83356bc04f788ad1bff8b9fe3e5848e/key.py"
+openai.api_key_path = st.secrets['API_KEY']
 
 """
 # Data Science Institute x Disability Research Network: A UTS HASS-DSI Research Project
