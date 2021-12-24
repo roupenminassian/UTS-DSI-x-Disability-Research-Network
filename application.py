@@ -43,7 +43,7 @@ else:
     
     user_input = st.text_input('')
     
-    hour_selected = st.slider("Set the temperature (controls how much randomness is in the output)", min_value=0, max_value=1, step=0.05)
+    temperature_selected = st.slider("Set the temperature (controls how much randomness is in the output)", min_value=0, max_value=1, step=0.05)
 
     if user_input is None:
         st.write('Please enter a query above.')
@@ -66,7 +66,7 @@ else:
   examples_context="In 2017, U.S. life expectancy was 78.6 years.",
   examples=[["What is human life expectancy in the United States?","78 years."]],
   max_tokens=50,
-  temperature = 0.3,
+  temperature = temperature_selected,
   stop=["\n", "<|endoftext|>"],
 )
             st.write('GPT-3 Answer:' + GPT_text['answers'][0])
