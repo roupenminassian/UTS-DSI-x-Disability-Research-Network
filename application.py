@@ -43,7 +43,7 @@ else:
     
     user_input = st.text_input('')
     
-    temperature_selected = st.slider("Set the temperature (controls how much randomness is in the output)", min_value=0, max_value=1, step=0.05)
+    temperature_selected = st.slider("Set the temperature (controls how much randomness is in the output)", min_value=0.0, max_value=1.0, step=0.05)
 
     if user_input is None:
         st.write('Please enter a query above.')
