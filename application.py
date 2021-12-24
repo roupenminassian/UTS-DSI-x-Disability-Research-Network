@@ -41,7 +41,7 @@ else:
 
     bm25 = BM25Okapi(tokenized_corpus)
     
-    user_input = st.text_input('')
+    user_input = st.text_input('Please Enter a Query:')
     
     temperature_selected = st.slider("Set the temperature (controls how much randomness is in the output)", min_value=0.0, max_value=1.0, step=0.05)
 
