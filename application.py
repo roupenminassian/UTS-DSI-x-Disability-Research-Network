@@ -7,12 +7,8 @@ import jsonlines
 import pickle
 from rank_bm25 import BM25Okapi
 
-from dotenv import load_dotenv
-
-load_dotenv()
-
 openai.organization = "org-eiJyreiRZUtpiu8pm6LIIA8B"
-openai.api_key = os.getenv('API_KEY')
+openai.api_key_path = "https://github.com/roupenminassian/gpt3-codenames/blob/main/key.py"
 
 """
 # Data Science Institute x Disability Research Network: A UTS HASS-DSI Research Project
