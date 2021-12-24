@@ -9,6 +9,8 @@ from rank_bm25 import BM25Okapi
 
 from dotenv import load_dotenv
 
+load_dotenv()
+
 openai.organization = "org-eiJyreiRZUtpiu8pm6LIIA8B"
 openai.api_key = os.getenv('API_KEY')
 
