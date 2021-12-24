@@ -5,4 +5,4 @@ pandas
 pickleshare
 openai
 jsonlines
-dotenv
+python-dotenv
