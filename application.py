@@ -42,6 +42,8 @@ else:
     bm25 = BM25Okapi(tokenized_corpus)
     
     user_input = st.text_input('')
+    
+    hour_selected = st.slider("Set the temperature (controls how much randomness is in the output)", min_value=0, max_value=1, step=0.05)
 
     if user_input is None:
         st.write('Please enter a query above.')
