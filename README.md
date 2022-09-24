@@ -17,15 +17,15 @@ Feel free to also test the [current version](https://share.streamlit.io/roupenmi
     - [PDF Plumber](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/PDF%20Plumber.py)
     - [Manual Method](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Data%20Preprocessing/Manual%20Method.py)
 
-2. [Exploratory Data Analysis (EDA)](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Exploratory%20Data%20Analysis%20(EDA).py)
+2. [Exploratory Data Analysis (EDA)](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Exploratory%20Data%20Analysis%20(EDA))
 
 3. [BM25 (Retrieval Function)](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/BM25%20(Retrieval%20Function).py)
 
-4. [Deep Learning Implementation](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Deep%20Learning%20Implementation.py):
+4. [Deep Learning Implementation](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Deep%20Learning%20Implementation):
     - [BERT](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Deep%20Learning%20Implementation/BERT.py)
     - [GPT-3](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Deep%20Learning%20Implementation/GPT-3.py)
 
-5. [Importance of Data Preprocessing](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Importance%20of%20Data%20Preprocessing.py):
+5. [Importance of Data Preprocessing](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Importance%20of%20Data%20Preprocessing):
     - [Text Cleaning](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Text%20Cleaning.py)
     - [Information Chunking](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Information%20Chunking.py)
     - [Revisiting NLP Algorithms](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Revisiting%20NLP%20Algorithms.py)
