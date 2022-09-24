@@ -27,5 +27,5 @@ Feel free to also test the [current version](https://share.streamlit.io/roupenmi
 
 5. [Importance of Data Preprocessing](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/tree/main/Importance%20of%20Data%20Preprocessing):
     - [Text Cleaning](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Text%20Cleaning.py)
-    - [Information Chunking](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Information%20Chunking.py)
-    - [Revisiting NLP Algorithms](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Revisiting%20NLP%20Algorithms.py)
+    - [Information Chunking](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Information%20Chunking)
+    - [Revisiting NLP Algorithms](https://github.com/roupenminassian/UTS-DSI-x-Disability-Research-Network/blob/main/Importance%20of%20Data%20Preprocessing/Revisiting%20NLP%20Algorithms)
